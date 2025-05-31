@@ -44,11 +44,14 @@ pip install -r requirements.txt
 
 Run the Jupyter Notebook or integrate it with Flask for deployment
 
-✅ Use Cases
+# ✅ Use Cases
 
 -HR departments for initial resume screening
+
 -Job platforms with AI-enhanced filtering
+
 -Students preparing resumes and getting AI feedback
+
 -Career guidance tools and dashboards
 
 👤 Author
