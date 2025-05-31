@@ -32,7 +32,7 @@ PyMuPDF / pdfminer / PyPDF2 – PDF text extraction
 NLP – Text preprocessing and vectorization
 
 
-🚀 How to Run
+# 🚀 How to Run
 Clone the repository
 git clone https://github.com/your-username/resume-grader.git
 
@@ -45,6 +45,7 @@ pip install -r requirements.txt
 Run the Jupyter Notebook or integrate it with Flask for deployment
 
 ✅ Use Cases
+
 -HR departments for initial resume screening
 -Job platforms with AI-enhanced filtering
 -Students preparing resumes and getting AI feedback
